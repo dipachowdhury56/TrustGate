@@ -1,0 +1,12 @@
+# Rust build artifacts
+target/
+
+# Node dependencies
+client/node_modules/
+node_modules/
+
+# Local settings & caches
+.soroban/
+.stellar/
+*.log
+.DS_Store
