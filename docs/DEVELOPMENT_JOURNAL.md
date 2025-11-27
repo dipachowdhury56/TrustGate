@@ -11,3 +11,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-11-27 17:04] docs: add state transition diagram for milestone lifecycle
 - Implemented step 3 towards TrustGate architecture.
 
+### [2025-11-27 21:59] feat: scaffold trustgate contract directory and crate manifest
+- Implemented step 4 towards TrustGate architecture.
+
