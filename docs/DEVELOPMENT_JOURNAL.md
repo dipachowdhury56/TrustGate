@@ -8,3 +8,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-11-27 13:16] docs: document milestone escrow architecture and dispute protocol specifications
 - Implemented step 2 towards TrustGate architecture.
 
+### [2025-11-27 17:04] docs: add state transition diagram for milestone lifecycle
+- Implemented step 3 towards TrustGate architecture.
+
