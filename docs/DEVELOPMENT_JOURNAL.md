@@ -17,3 +17,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-11-28 10:01] feat: configure no_std environment and Soroban SDK dependencies
 - Implemented step 5 towards TrustGate architecture.
 
+### [2025-11-28 12:38] feat(types): declare MilestoneStatus enum (Pending, Submitted, Approved, Disputed, Resolved)
+- Implemented step 6 towards TrustGate architecture.
+
