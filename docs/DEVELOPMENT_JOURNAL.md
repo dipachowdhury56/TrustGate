@@ -20,3 +20,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-11-28 12:38] feat(types): declare MilestoneStatus enum (Pending, Submitted, Approved, Disputed, Resolved)
 - Implemented step 6 towards TrustGate architecture.
 
+### [2025-11-28 17:37] feat(types): add DataKey storage keys for EscrowCount, Escrow, and Milestone
+- Implemented step 7 towards TrustGate architecture.
+
