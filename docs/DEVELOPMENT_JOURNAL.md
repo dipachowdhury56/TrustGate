@@ -14,3 +14,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-11-27 21:59] feat: scaffold trustgate contract directory and crate manifest
 - Implemented step 4 towards TrustGate architecture.
 
+### [2025-11-28 10:01] feat: configure no_std environment and Soroban SDK dependencies
+- Implemented step 5 towards TrustGate architecture.
+
