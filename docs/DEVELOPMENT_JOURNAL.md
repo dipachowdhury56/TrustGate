@@ -26,3 +26,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-01 12:46] feat(types): define Milestone struct with description, amount, submission_uri, submitted_time
 - Implemented step 8 towards TrustGate architecture.
 
+### [2025-12-01 12:54] feat(types): define EscrowAgreement struct with buyer, seller, arbiter, token, review_window
+- Implemented step 9 towards TrustGate architecture.
+
