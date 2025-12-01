@@ -23,3 +23,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-11-28 17:37] feat(types): add DataKey storage keys for EscrowCount, Escrow, and Milestone
 - Implemented step 7 towards TrustGate architecture.
 
+### [2025-12-01 12:46] feat(types): define Milestone struct with description, amount, submission_uri, submitted_time
+- Implemented step 8 towards TrustGate architecture.
+
