@@ -38,3 +38,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-03 15:59] docs: add sequence diagram for multi-milestone submission and approval
 - Implemented step 12 towards TrustGate architecture.
 
+### [2025-12-03 19:34] feat(types): add title string field to escrow agreement
+- Implemented step 13 towards TrustGate architecture.
+
