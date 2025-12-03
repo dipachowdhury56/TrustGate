@@ -32,3 +32,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-03 13:26] feat(types): declare custom contract errors (EscrowNotFound, InvalidAmount, ReviewPeriodNotElapsed, etc)
 - Implemented step 10 towards TrustGate architecture.
 
+### [2025-12-03 13:27] refactor(types): implement Copy and Clone traits for enum variants
+- Implemented step 11 towards TrustGate architecture.
+
