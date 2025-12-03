@@ -29,3 +29,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-01 12:54] feat(types): define EscrowAgreement struct with buyer, seller, arbiter, token, review_window
 - Implemented step 9 towards TrustGate architecture.
 
+### [2025-12-03 13:26] feat(types): declare custom contract errors (EscrowNotFound, InvalidAmount, ReviewPeriodNotElapsed, etc)
+- Implemented step 10 towards TrustGate architecture.
+
