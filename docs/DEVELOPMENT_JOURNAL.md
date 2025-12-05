@@ -50,3 +50,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-05 15:48] feat(contract): scaffold TrustGateEscrow struct and contractimpl block
 - Implemented step 16 towards TrustGate architecture.
 
+### [2025-12-05 18:57] feat(contract): implement create_escrow function signature and buyer authorization
+- Implemented step 17 towards TrustGate architecture.
+
