@@ -47,3 +47,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-05 11:15] docs: document review window grace period auto-release mechanism
 - Implemented step 15 towards TrustGate architecture.
 
+### [2025-12-05 15:48] feat(contract): scaffold TrustGateEscrow struct and contractimpl block
+- Implemented step 16 towards TrustGate architecture.
+
