@@ -56,3 +56,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-06 12:01] feat(contract): require buyer authorization on escrow initialization
 - Implemented step 18 towards TrustGate architecture.
 
+### [2025-12-06 15:55] feat(contract): record buyer, seller, arbiter, token, and review window duration
+- Implemented step 19 towards TrustGate architecture.
+
