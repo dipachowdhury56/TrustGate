@@ -59,3 +59,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-06 15:55] feat(contract): record buyer, seller, arbiter, token, and review window duration
 - Implemented step 19 towards TrustGate architecture.
 
+### [2025-12-06 16:00] feat(storage): increment and persist EscrowCount in instance storage
+- Implemented step 20 towards TrustGate architecture.
+
