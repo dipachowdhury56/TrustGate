@@ -62,3 +62,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-06 16:00] feat(storage): increment and persist EscrowCount in instance storage
 - Implemented step 20 towards TrustGate architecture.
 
+### [2025-12-06 18:32] feat(storage): persist new EscrowAgreement in persistent storage
+- Implemented step 21 towards TrustGate architecture.
+
