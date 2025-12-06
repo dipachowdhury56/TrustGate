@@ -53,3 +53,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-05 18:57] feat(contract): implement create_escrow function signature and buyer authorization
 - Implemented step 17 towards TrustGate architecture.
 
+### [2025-12-06 12:01] feat(contract): require buyer authorization on escrow initialization
+- Implemented step 18 towards TrustGate architecture.
+
