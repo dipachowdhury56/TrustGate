@@ -68,3 +68,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-08 10:31] feat(events): emit create escrow event with buyer, seller, and arbiter
 - Implemented step 22 towards TrustGate architecture.
 
+### [2025-12-08 13:57] feat(contract): implement add_milestone function with buyer authorization
+- Implemented step 23 towards TrustGate architecture.
+
