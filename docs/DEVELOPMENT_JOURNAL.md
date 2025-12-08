@@ -65,3 +65,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-06 18:32] feat(storage): persist new EscrowAgreement in persistent storage
 - Implemented step 21 towards TrustGate architecture.
 
+### [2025-12-08 10:31] feat(events): emit create escrow event with buyer, seller, and arbiter
+- Implemented step 22 towards TrustGate architecture.
+
