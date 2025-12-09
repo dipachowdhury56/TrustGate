@@ -77,3 +77,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-09 10:34] feat(token): transfer milestone funds from buyer to contract address
 - Implemented step 25 towards TrustGate architecture.
 
+### [2025-12-09 15:40] feat(contract): record milestone in persistent storage under EscrowMilestone key
+- Implemented step 26 towards TrustGate architecture.
+
