@@ -74,3 +74,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-08 18:23] fix(contract): validate milestone amount is strictly positive
 - Implemented step 24 towards TrustGate architecture.
 
+### [2025-12-09 10:34] feat(token): transfer milestone funds from buyer to contract address
+- Implemented step 25 towards TrustGate architecture.
+
