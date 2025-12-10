@@ -83,3 +83,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-10 10:23] feat(contract): update escrow total_amount and milestone count
 - Implemented step 27 towards TrustGate architecture.
 
+### [2025-12-10 15:38] feat(events): emit milestone added event with milestone id and amount
+- Implemented step 28 towards TrustGate architecture.
+
