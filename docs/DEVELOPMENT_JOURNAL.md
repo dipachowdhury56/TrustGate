@@ -86,3 +86,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-10 15:38] feat(events): emit milestone added event with milestone id and amount
 - Implemented step 28 towards TrustGate architecture.
 
+### [2025-12-10 18:02] feat(contract): implement submit_milestone_work function with seller authorization
+- Implemented step 29 towards TrustGate architecture.
+
