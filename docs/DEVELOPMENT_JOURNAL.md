@@ -80,3 +80,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-09 15:40] feat(contract): record milestone in persistent storage under EscrowMilestone key
 - Implemented step 26 towards TrustGate architecture.
 
+### [2025-12-10 10:23] feat(contract): update escrow total_amount and milestone count
+- Implemented step 27 towards TrustGate architecture.
+
