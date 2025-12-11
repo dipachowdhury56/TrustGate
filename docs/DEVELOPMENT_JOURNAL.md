@@ -95,3 +95,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-11 14:45] feat(contract): record deliverable IPFS submission_uri and current ledger timestamp
 - Implemented step 31 towards TrustGate architecture.
 
+### [2025-12-11 19:49] feat(contract): update milestone status to Submitted
+- Implemented step 32 towards TrustGate architecture.
+
