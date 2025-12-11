@@ -92,3 +92,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-11 11:20] fix(contract): ensure milestone status is Pending before allowing submission
 - Implemented step 30 towards TrustGate architecture.
 
+### [2025-12-11 14:45] feat(contract): record deliverable IPFS submission_uri and current ledger timestamp
+- Implemented step 31 towards TrustGate architecture.
+
