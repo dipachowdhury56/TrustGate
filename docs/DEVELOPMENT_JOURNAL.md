@@ -89,3 +89,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-10 18:02] feat(contract): implement submit_milestone_work function with seller authorization
 - Implemented step 29 towards TrustGate architecture.
 
+### [2025-12-11 11:20] fix(contract): ensure milestone status is Pending before allowing submission
+- Implemented step 30 towards TrustGate architecture.
+
