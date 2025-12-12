@@ -98,3 +98,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-11 19:49] feat(contract): update milestone status to Submitted
 - Implemented step 32 towards TrustGate architecture.
 
+### [2025-12-12 10:26] feat(events): emit milestone submitted event with timestamp
+- Implemented step 33 towards TrustGate architecture.
+
