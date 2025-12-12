@@ -101,3 +101,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-12 10:26] feat(events): emit milestone submitted event with timestamp
 - Implemented step 33 towards TrustGate architecture.
 
+### [2025-12-12 16:10] feat(contract): implement approve_milestone function with buyer authorization
+- Implemented step 34 towards TrustGate architecture.
+
