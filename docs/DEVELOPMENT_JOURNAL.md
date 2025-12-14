@@ -107,3 +107,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-14 09:45] fix(contract): ensure milestone is in Submitted or Pending state
 - Implemented step 35 towards TrustGate architecture.
 
+### [2025-12-14 11:10] feat(contract): update milestone status to Approved and increment released_amount
+- Implemented step 36 towards TrustGate architecture.
+
