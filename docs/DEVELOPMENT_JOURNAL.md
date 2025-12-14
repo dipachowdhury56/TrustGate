@@ -104,3 +104,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-12 16:10] feat(contract): implement approve_milestone function with buyer authorization
 - Implemented step 34 towards TrustGate architecture.
 
+### [2025-12-14 09:45] fix(contract): ensure milestone is in Submitted or Pending state
+- Implemented step 35 towards TrustGate architecture.
+
