@@ -110,3 +110,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-14 11:10] feat(contract): update milestone status to Approved and increment released_amount
 - Implemented step 36 towards TrustGate architecture.
 
+### [2025-12-14 21:11] feat(token): transfer milestone tokens from contract to seller address
+- Implemented step 37 towards TrustGate architecture.
+
