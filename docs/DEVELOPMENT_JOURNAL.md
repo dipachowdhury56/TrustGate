@@ -122,3 +122,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-16 11:13] fix(contract): verify milestone status is currently Submitted
 - Implemented step 40 towards TrustGate architecture.
 
+### [2025-12-16 13:29] feat(math): calculate elapsed review time against escrow review_window_seconds
+- Implemented step 41 towards TrustGate architecture.
+
