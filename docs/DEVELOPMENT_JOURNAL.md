@@ -119,3 +119,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-16 10:01] feat(contract): implement claim_auto_release function with seller authorization
 - Implemented step 39 towards TrustGate architecture.
 
+### [2025-12-16 11:13] fix(contract): verify milestone status is currently Submitted
+- Implemented step 40 towards TrustGate architecture.
+
