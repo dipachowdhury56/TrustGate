@@ -116,3 +116,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-14 22:26] feat(events): emit milestone approved event with released amount
 - Implemented step 38 towards TrustGate architecture.
 
+### [2025-12-16 10:01] feat(contract): implement claim_auto_release function with seller authorization
+- Implemented step 39 towards TrustGate architecture.
+
