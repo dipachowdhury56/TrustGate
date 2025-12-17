@@ -125,3 +125,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-16 13:29] feat(math): calculate elapsed review time against escrow review_window_seconds
 - Implemented step 41 towards TrustGate architecture.
 
+### [2025-12-17 17:34] fix(contract): return ReviewPeriodNotElapsed if review window has not expired
+- Implemented step 42 towards TrustGate architecture.
+
