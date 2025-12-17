@@ -128,3 +128,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-17 17:34] fix(contract): return ReviewPeriodNotElapsed if review window has not expired
 - Implemented step 42 towards TrustGate architecture.
 
+### [2025-12-17 17:51] feat(contract): transition milestone status to Approved via auto-release
+- Implemented step 43 towards TrustGate architecture.
+
