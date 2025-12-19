@@ -131,3 +131,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-17 17:51] feat(contract): transition milestone status to Approved via auto-release
 - Implemented step 43 towards TrustGate architecture.
 
+### [2025-12-19 13:50] feat(token): disburse milestone tokens to seller following timeout
+- Implemented step 44 towards TrustGate architecture.
+
