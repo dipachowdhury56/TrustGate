@@ -140,3 +140,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-19 20:41] feat(contract): implement dispute_milestone function callable by buyer or seller
 - Implemented step 46 towards TrustGate architecture.
 
+### [2025-12-19 22:14] feat(contract): verify caller authorization matches buyer or seller address
+- Implemented step 47 towards TrustGate architecture.
+
