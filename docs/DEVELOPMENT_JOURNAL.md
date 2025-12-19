@@ -134,3 +134,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-19 13:50] feat(token): disburse milestone tokens to seller following timeout
 - Implemented step 44 towards TrustGate architecture.
 
+### [2025-12-19 16:40] feat(events): emit auto-release event with milestone ID and released amount
+- Implemented step 45 towards TrustGate architecture.
+
