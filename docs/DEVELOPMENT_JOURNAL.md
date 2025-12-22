@@ -149,3 +149,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-22 17:38] feat(contract): update milestone status to Disputed
 - Implemented step 49 towards TrustGate architecture.
 
+### [2025-12-22 19:36] feat(events): emit dispute event with milestone ID and disputing caller
+- Implemented step 50 towards TrustGate architecture.
+
