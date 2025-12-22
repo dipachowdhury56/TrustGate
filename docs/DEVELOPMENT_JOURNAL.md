@@ -146,3 +146,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-22 15:24] fix(contract): return Unauthorized error if caller is neither party
 - Implemented step 48 towards TrustGate architecture.
 
+### [2025-12-22 17:38] feat(contract): update milestone status to Disputed
+- Implemented step 49 towards TrustGate architecture.
+
