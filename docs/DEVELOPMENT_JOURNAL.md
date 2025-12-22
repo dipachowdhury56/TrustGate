@@ -143,3 +143,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-19 22:14] feat(contract): verify caller authorization matches buyer or seller address
 - Implemented step 47 towards TrustGate architecture.
 
+### [2025-12-22 15:24] fix(contract): return Unauthorized error if caller is neither party
+- Implemented step 48 towards TrustGate architecture.
+
