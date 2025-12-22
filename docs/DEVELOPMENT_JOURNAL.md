@@ -152,3 +152,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-22 19:36] feat(events): emit dispute event with milestone ID and disputing caller
 - Implemented step 50 towards TrustGate architecture.
 
+### [2025-12-22 21:50] feat(contract): implement resolve_dispute function with arbiter authorization
+- Implemented step 51 towards TrustGate architecture.
+
