@@ -155,3 +155,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-22 21:50] feat(contract): implement resolve_dispute function with arbiter authorization
 - Implemented step 51 towards TrustGate architecture.
 
+### [2025-12-30 17:06] fix(contract): verify milestone status is currently Disputed
+- Implemented step 52 towards TrustGate architecture.
+
