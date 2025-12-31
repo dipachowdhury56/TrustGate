@@ -170,3 +170,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-31 15:03] feat(token): transfer buyer_share refund to buyer address if greater than zero
 - Implemented step 56 towards TrustGate architecture.
 
+### [2025-12-31 18:42] feat(events): emit resolved event with seller and buyer share amounts
+- Implemented step 57 towards TrustGate architecture.
+
