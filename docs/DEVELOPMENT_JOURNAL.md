@@ -173,3 +173,6 @@ Chronological engineering records and milestone changelog.
 ### [2025-12-31 18:42] feat(events): emit resolved event with seller and buyer share amounts
 - Implemented step 57 towards TrustGate architecture.
 
+### [2026-01-07 11:27] feat(contract): implement get_escrow and get_milestone public query functions
+- Implemented step 58 towards TrustGate architecture.
+
