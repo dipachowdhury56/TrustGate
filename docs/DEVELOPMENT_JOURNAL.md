@@ -176,3 +176,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-07 11:27] feat(contract): implement get_escrow and get_milestone public query functions
 - Implemented step 58 towards TrustGate architecture.
 
+### [2026-01-07 11:30] test: setup test module with Env::default() and mock_all_auths()
+- Implemented step 59 towards TrustGate architecture.
+
