@@ -179,3 +179,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-07 11:30] test: setup test module with Env::default() and mock_all_auths()
 - Implemented step 59 towards TrustGate architecture.
 
+### [2026-01-08 15:07] test: implement create_token_contract helper using register_stellar_asset_contract_v2
+- Implemented step 60 towards TrustGate architecture.
+
