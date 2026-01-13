@@ -191,3 +191,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-10 19:08] test: create escrow with buyer, seller, arbiter, and review window
 - Implemented step 63 towards TrustGate architecture.
 
+### [2026-01-13 19:40] test: add Milestone 1 and Milestone 2 and verify contract token balance
+- Implemented step 64 towards TrustGate architecture.
+
