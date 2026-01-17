@@ -194,3 +194,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-13 19:40] test: add Milestone 1 and Milestone 2 and verify contract token balance
 - Implemented step 64 towards TrustGate architecture.
 
+### [2026-01-17 10:08] test: seller submits IPFS deliverable for Milestone 1
+- Implemented step 65 towards TrustGate architecture.
+
