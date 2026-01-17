@@ -200,3 +200,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-17 10:38] test: buyer approves Milestone 1 and verify seller token balance
 - Implemented step 66 towards TrustGate architecture.
 
+### [2026-01-17 14:15] test: seller submits deliverable for Milestone 2 and buyer approves
+- Implemented step 67 towards TrustGate architecture.
+
