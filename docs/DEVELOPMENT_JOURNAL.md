@@ -215,3 +215,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-19 18:46] test: assert try_claim_auto_release returns error prior to window expiration
 - Implemented step 71 towards TrustGate architecture.
 
+### [2026-01-19 21:00] test: advance ledger timestamp past review window and call claim_auto_release
+- Implemented step 72 towards TrustGate architecture.
+
