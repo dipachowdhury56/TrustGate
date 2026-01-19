@@ -212,3 +212,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-19 18:27] test: seller submits deliverable and tries early auto-release before window
 - Implemented step 70 towards TrustGate architecture.
 
+### [2026-01-19 18:46] test: assert try_claim_auto_release returns error prior to window expiration
+- Implemented step 71 towards TrustGate architecture.
+
