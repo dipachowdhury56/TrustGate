@@ -206,3 +206,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-17 17:09] test: verify 100% of escrow funds released to seller and contract balance is zero
 - Implemented step 68 towards TrustGate architecture.
 
+### [2026-01-19 14:47] test: add test_auto_release_after_timeout test case
+- Implemented step 69 towards TrustGate architecture.
+
