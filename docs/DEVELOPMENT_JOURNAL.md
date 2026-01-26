@@ -233,3 +233,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-26 11:50] test: assert token balances for seller and buyer match arbitrated split
 - Implemented step 77 towards TrustGate architecture.
 
+### [2026-01-26 13:28] test: add snapshot recordings for ledger footprints
+- Implemented step 78 towards TrustGate architecture.
+
