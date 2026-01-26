@@ -230,3 +230,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-23 19:14] test: arbiter resolves dispute with 70% seller payout and 30% buyer refund
 - Implemented step 76 towards TrustGate architecture.
 
+### [2026-01-26 11:50] test: assert token balances for seller and buyer match arbitrated split
+- Implemented step 77 towards TrustGate architecture.
+
