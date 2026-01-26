@@ -236,3 +236,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-26 13:28] test: add snapshot recordings for ledger footprints
 - Implemented step 78 towards TrustGate architecture.
 
+### [2026-01-26 20:34] build: configure Cargo.toml release profile for minimal WASM bytecode
+- Implemented step 79 towards TrustGate architecture.
+
