@@ -239,3 +239,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-26 20:34] build: configure Cargo.toml release profile for minimal WASM bytecode
 - Implemented step 79 towards TrustGate architecture.
 
+### [2026-01-29 16:41] build: set opt-level = 'z', lto = true, codegen-units = 1
+- Implemented step 80 towards TrustGate architecture.
+
