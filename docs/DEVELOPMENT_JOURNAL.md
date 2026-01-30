@@ -242,3 +242,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-29 16:41] build: set opt-level = 'z', lto = true, codegen-units = 1
 - Implemented step 80 towards TrustGate architecture.
 
+### [2026-01-30 17:02] build: compile contract to wasm32v1-none release target
+- Implemented step 81 towards TrustGate architecture.
+
