@@ -248,3 +248,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-30 18:39] perf: optimize contract size to 10.2 KB with spec shaking
 - Implemented step 82 towards TrustGate architecture.
 
+### [2026-01-30 21:02] chore: export compiled wasm binary to wasm/trustgate.wasm
+- Implemented step 83 towards TrustGate architecture.
+
