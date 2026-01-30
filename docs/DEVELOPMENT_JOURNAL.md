@@ -245,3 +245,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-30 17:02] build: compile contract to wasm32v1-none release target
 - Implemented step 81 towards TrustGate architecture.
 
+### [2026-01-30 18:39] perf: optimize contract size to 10.2 KB with spec shaking
+- Implemented step 82 towards TrustGate architecture.
+
