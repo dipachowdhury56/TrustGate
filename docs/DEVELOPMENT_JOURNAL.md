@@ -257,3 +257,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-31 12:40] feat(client): add @stellar/stellar-sdk dependency to client
 - Implemented step 85 towards TrustGate architecture.
 
+### [2026-01-31 14:14] feat(client): implement test-client.js for Buyer, Seller, Arbiter Keypairs
+- Implemented step 86 towards TrustGate architecture.
+
