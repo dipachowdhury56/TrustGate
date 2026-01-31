@@ -260,3 +260,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-31 14:14] feat(client): implement test-client.js for Buyer, Seller, Arbiter Keypairs
 - Implemented step 86 towards TrustGate architecture.
 
+### [2026-01-31 18:59] feat(client): test ScVal serialization for review window and milestone amounts
+- Implemented step 87 towards TrustGate architecture.
+
