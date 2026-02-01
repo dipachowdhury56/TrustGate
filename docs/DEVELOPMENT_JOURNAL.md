@@ -269,3 +269,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-01 15:33] feat(client): verify ScVal roundtrip decoding with scValToNative
 - Implemented step 89 towards TrustGate architecture.
 
+### [2026-02-01 21:58] feat(ui): scaffold responsive client/index.html layout
+- Implemented step 90 towards TrustGate architecture.
+
