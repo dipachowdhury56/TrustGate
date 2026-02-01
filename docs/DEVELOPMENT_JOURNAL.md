@@ -266,3 +266,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-01 10:32] feat(client): verify StrKey ed25519 public key validation
 - Implemented step 88 towards TrustGate architecture.
 
+### [2026-02-01 15:33] feat(client): verify ScVal roundtrip decoding with scValToNative
+- Implemented step 89 towards TrustGate architecture.
+
