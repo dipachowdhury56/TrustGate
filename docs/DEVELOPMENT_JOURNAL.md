@@ -263,3 +263,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-01-31 18:59] feat(client): test ScVal serialization for review window and milestone amounts
 - Implemented step 87 towards TrustGate architecture.
 
+### [2026-02-01 10:32] feat(client): verify StrKey ed25519 public key validation
+- Implemented step 88 towards TrustGate architecture.
+
