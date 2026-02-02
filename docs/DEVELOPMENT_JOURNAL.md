@@ -278,3 +278,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-02 12:30] feat(ui): add Role Switcher allowing Buyer, Seller, and Arbiter simulation
 - Implemented step 92 towards TrustGate architecture.
 
+### [2026-02-02 14:59] feat(ui): add Milestone funding and creation modal
+- Implemented step 93 towards TrustGate architecture.
+
