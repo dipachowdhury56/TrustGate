@@ -272,3 +272,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-01 21:58] feat(ui): scaffold responsive client/index.html layout
 - Implemented step 90 towards TrustGate architecture.
 
+### [2026-02-02 10:13] style: define CSS variables for dark theme and typography
+- Implemented step 91 towards TrustGate architecture.
+
