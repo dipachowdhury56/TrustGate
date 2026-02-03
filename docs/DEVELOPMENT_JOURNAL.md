@@ -281,3 +281,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-02 14:59] feat(ui): add Milestone funding and creation modal
 - Implemented step 93 towards TrustGate architecture.
 
+### [2026-02-03 11:48] feat(ui): add deliverable submission prompt with IPFS CID input
+- Implemented step 94 towards TrustGate architecture.
+
