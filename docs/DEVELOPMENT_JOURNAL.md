@@ -293,3 +293,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-04 12:52] feat(ui): add arbiter dispute settlement percentage split dialog
 - Implemented step 97 towards TrustGate architecture.
 
+### [2026-02-04 15:13] docs: write comprehensive README.md with architecture overview
+- Implemented step 98 towards TrustGate architecture.
+
