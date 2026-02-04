@@ -296,3 +296,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-04 15:13] docs: write comprehensive README.md with architecture overview
 - Implemented step 98 towards TrustGate architecture.
 
+### [2026-02-04 20:26] docs: add comparison table detailing differentiation over prior art
+- Implemented step 99 towards TrustGate architecture.
+
