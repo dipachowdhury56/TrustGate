@@ -287,3 +287,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-03 15:13] feat(ui): add buyer approve and dispute action buttons
 - Implemented step 95 towards TrustGate architecture.
 
+### [2026-02-04 11:25] feat(ui): add seller auto-release claim timer button
+- Implemented step 96 towards TrustGate architecture.
+
