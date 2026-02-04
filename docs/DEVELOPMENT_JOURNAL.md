@@ -290,3 +290,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-04 11:25] feat(ui): add seller auto-release claim timer button
 - Implemented step 96 towards TrustGate architecture.
 
+### [2026-02-04 12:52] feat(ui): add arbiter dispute settlement percentage split dialog
+- Implemented step 97 towards TrustGate architecture.
+
