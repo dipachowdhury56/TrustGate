@@ -299,3 +299,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-04 20:26] docs: add comparison table detailing differentiation over prior art
 - Implemented step 99 towards TrustGate architecture.
 
+### [2026-02-05 17:13] docs: add step-by-step build, test, and deployment instructions
+- Implemented step 100 towards TrustGate architecture.
+
