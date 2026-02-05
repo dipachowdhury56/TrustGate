@@ -302,3 +302,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-02-05 17:13] docs: add step-by-step build, test, and deployment instructions
 - Implemented step 100 towards TrustGate architecture.
 
+### [2026-02-05 19:06] chore: lock dependencies in Cargo.lock and package-lock.json
+- Implemented step 101 towards TrustGate architecture.
+
