@@ -383,3 +383,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-03-02 15:25] refactor(trustgate): improve code formatting and inline comments in milestone logic (step 127)
 - Implemented step 127 towards TrustGate architecture.
 
+### [2026-03-02 16:25] fix(trustgate): tighten boundary check for milestone state in milestone logic (step 128)
+- Implemented step 128 towards TrustGate architecture.
+
