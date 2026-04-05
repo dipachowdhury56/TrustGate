@@ -509,3 +509,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-04-05 16:10] perf(trustgate): reduce redundant clone operations in lib.rs (step 169)
 - Implemented step 169 towards TrustGate architecture.
 
+### [2026-04-05 18:34] docs(trustgate): update documentation notes for lib.rs (step 170)
+- Implemented step 170 towards TrustGate architecture.
+
