@@ -533,3 +533,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-04-08 18:58] perf(trustgate): reduce redundant clone operations in types.rs (step 177)
 - Implemented step 177 towards TrustGate architecture.
 
+### [2026-04-08 21:39] docs(trustgate): update documentation notes for types.rs (step 178)
+- Implemented step 178 towards TrustGate architecture.
+
