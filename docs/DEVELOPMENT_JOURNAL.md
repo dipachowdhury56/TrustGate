@@ -572,3 +572,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-04-19 09:59] feat(trustgate): add telemetry log point for test.rs (step 190)
 - Implemented step 190 towards TrustGate architecture.
 
+### [2026-04-19 12:03] refactor(trustgate): improve code formatting and inline comments in milestone logic (step 191)
+- Implemented step 191 towards TrustGate architecture.
+
