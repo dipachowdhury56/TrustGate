@@ -599,3 +599,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-04-23 15:47] refactor(trustgate): improve code formatting and inline comments in arbitration split (step 199)
 - Implemented step 199 towards TrustGate architecture.
 
+### [2026-04-23 21:25] fix(trustgate): tighten boundary check for milestone state in arbitration split (step 200)
+- Implemented step 200 towards TrustGate architecture.
+
