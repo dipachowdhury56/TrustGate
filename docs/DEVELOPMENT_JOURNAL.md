@@ -617,3 +617,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-04-30 12:15] chore(trustgate): optimize compiler warning suppressions in arbitration split (step 205)
 - Implemented step 205 towards TrustGate architecture.
 
+### [2026-04-30 15:29] feat(trustgate): add telemetry log point for arbitration split (step 206)
+- Implemented step 206 towards TrustGate architecture.
+
