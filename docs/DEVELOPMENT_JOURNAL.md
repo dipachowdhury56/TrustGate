@@ -650,3 +650,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-05-05 20:50] fix(trustgate): tighten boundary check for milestone state in ui dashboard (step 216)
 - Implemented step 216 towards TrustGate architecture.
 
+### [2026-05-05 21:50] perf(trustgate): reduce redundant clone operations in ui dashboard (step 217)
+- Implemented step 217 towards TrustGate architecture.
+
