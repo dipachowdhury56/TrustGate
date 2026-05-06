@@ -653,3 +653,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-05-05 21:50] perf(trustgate): reduce redundant clone operations in ui dashboard (step 217)
 - Implemented step 217 towards TrustGate architecture.
 
+### [2026-05-06 10:40] docs(trustgate): update documentation notes for ui dashboard (step 218)
+- Implemented step 218 towards TrustGate architecture.
+
