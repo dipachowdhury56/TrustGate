@@ -677,3 +677,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-05-11 20:43] perf(trustgate): reduce redundant clone operations in storage layout (step 225)
 - Implemented step 225 towards TrustGate architecture.
 
+### [2026-05-12 16:26] docs(trustgate): update documentation notes for storage layout (step 226)
+- Implemented step 226 towards TrustGate architecture.
+
