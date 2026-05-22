@@ -722,3 +722,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-05-22 14:56] fix(trustgate): tighten boundary check for milestone state in types.rs (step 240)
 - Implemented step 240 towards TrustGate architecture.
 
+### [2026-05-22 20:25] perf(trustgate): reduce redundant clone operations in types.rs (step 241)
+- Implemented step 241 towards TrustGate architecture.
+
