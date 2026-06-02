@@ -785,3 +785,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-02 12:34] chore(trustgate): optimize compiler warning suppressions in milestone logic (step 261)
 - Implemented step 261 towards TrustGate architecture.
 
+### [2026-06-02 14:07] feat(trustgate): add telemetry log point for milestone logic (step 262)
+- Implemented step 262 towards TrustGate architecture.
+
