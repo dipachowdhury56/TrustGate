@@ -800,3 +800,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-06 09:57] docs(trustgate): update documentation notes for arbitration split (step 266)
 - Implemented step 266 towards TrustGate architecture.
 
+### [2026-06-06 19:27] test(trustgate): verify edge case behavior for arbitration split (step 267)
+- Implemented step 267 towards TrustGate architecture.
+
