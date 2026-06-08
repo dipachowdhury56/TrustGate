@@ -815,3 +815,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-07 18:44] refactor(trustgate): improve code formatting and inline comments in client sdk (step 271)
 - Implemented step 271 towards TrustGate architecture.
 
+### [2026-06-08 11:25] fix(trustgate): tighten boundary check for milestone state in client sdk (step 272)
+- Implemented step 272 towards TrustGate architecture.
+
