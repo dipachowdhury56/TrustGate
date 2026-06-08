@@ -818,3 +818,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-08 11:25] fix(trustgate): tighten boundary check for milestone state in client sdk (step 272)
 - Implemented step 272 towards TrustGate architecture.
 
+### [2026-06-08 19:30] perf(trustgate): reduce redundant clone operations in client sdk (step 273)
+- Implemented step 273 towards TrustGate architecture.
+
