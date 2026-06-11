@@ -821,3 +821,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-08 19:30] perf(trustgate): reduce redundant clone operations in client sdk (step 273)
 - Implemented step 273 towards TrustGate architecture.
 
+### [2026-06-11 10:48] docs(trustgate): update documentation notes for client sdk (step 274)
+- Implemented step 274 towards TrustGate architecture.
+
