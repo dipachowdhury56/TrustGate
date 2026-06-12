@@ -833,3 +833,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-11 20:13] chore(trustgate): optimize compiler warning suppressions in client sdk (step 277)
 - Implemented step 277 towards TrustGate architecture.
 
+### [2026-06-12 12:18] feat(trustgate): add telemetry log point for client sdk (step 278)
+- Implemented step 278 towards TrustGate architecture.
+
