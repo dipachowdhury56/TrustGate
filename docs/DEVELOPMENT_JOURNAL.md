@@ -857,3 +857,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-18 21:16] chore(trustgate): optimize compiler warning suppressions in ui dashboard (step 285)
 - Implemented step 285 towards TrustGate architecture.
 
+### [2026-06-20 09:44] feat(trustgate): add telemetry log point for ui dashboard (step 286)
+- Implemented step 286 towards TrustGate architecture.
+
