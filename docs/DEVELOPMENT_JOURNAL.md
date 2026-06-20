@@ -860,3 +860,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-20 09:44] feat(trustgate): add telemetry log point for ui dashboard (step 286)
 - Implemented step 286 towards TrustGate architecture.
 
+### [2026-06-20 17:58] refactor(trustgate): improve code formatting and inline comments in storage layout (step 287)
+- Implemented step 287 towards TrustGate architecture.
+
