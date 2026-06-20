@@ -863,3 +863,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-20 17:58] refactor(trustgate): improve code formatting and inline comments in storage layout (step 287)
 - Implemented step 287 towards TrustGate architecture.
 
+### [2026-06-20 19:24] fix(trustgate): tighten boundary check for milestone state in storage layout (step 288)
+- Implemented step 288 towards TrustGate architecture.
+
