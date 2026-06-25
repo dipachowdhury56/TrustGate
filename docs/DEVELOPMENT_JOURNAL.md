@@ -887,3 +887,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-25 14:46] refactor(trustgate): improve code formatting and inline comments in lib.rs (step 295)
 - Implemented step 295 towards TrustGate architecture.
 
+### [2026-06-25 15:18] fix(trustgate): tighten boundary check for milestone state in lib.rs (step 296)
+- Implemented step 296 towards TrustGate architecture.
+
