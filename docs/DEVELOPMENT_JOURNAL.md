@@ -884,3 +884,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-24 21:16] feat(trustgate): add telemetry log point for storage layout (step 294)
 - Implemented step 294 towards TrustGate architecture.
 
+### [2026-06-25 14:46] refactor(trustgate): improve code formatting and inline comments in lib.rs (step 295)
+- Implemented step 295 towards TrustGate architecture.
+
