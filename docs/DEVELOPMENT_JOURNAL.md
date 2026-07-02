@@ -911,3 +911,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-06-30 18:25] refactor(trustgate): improve code formatting and inline comments in types.rs (step 303)
 - Implemented step 303 towards TrustGate architecture.
 
+### [2026-07-02 10:32] fix(trustgate): tighten boundary check for milestone state in types.rs (step 304)
+- Implemented step 304 towards TrustGate architecture.
+
