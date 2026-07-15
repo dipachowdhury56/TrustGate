@@ -974,3 +974,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-07-14 19:58] style(trustgate): standardize variable naming conventions in milestone logic (step 324)
 - Implemented step 324 towards TrustGate architecture.
 
+### [2026-07-15 20:21] chore(trustgate): optimize compiler warning suppressions in milestone logic (step 325)
+- Implemented step 325 towards TrustGate architecture.
+
