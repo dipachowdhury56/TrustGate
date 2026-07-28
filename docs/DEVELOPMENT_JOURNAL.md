@@ -1031,3 +1031,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-07-28 10:46] refactor(trustgate): improve code formatting and inline comments in ui dashboard (step 343)
 - Implemented step 343 towards TrustGate architecture.
 
+### [2026-07-28 12:57] fix(trustgate): tighten boundary check for milestone state in ui dashboard (step 344)
+- Implemented step 344 towards TrustGate architecture.
+
