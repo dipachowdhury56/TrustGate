@@ -1064,3 +1064,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-08-04 12:34] docs(trustgate): update documentation notes for storage layout (step 354)
 - Implemented step 354 towards TrustGate architecture.
 
+### [2026-08-04 15:58] test(trustgate): verify edge case behavior for storage layout (step 355)
+- Implemented step 355 towards TrustGate architecture.
+
