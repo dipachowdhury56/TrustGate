@@ -1097,3 +1097,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-08-09 13:15] chore(trustgate): optimize compiler warning suppressions in lib.rs (step 365)
 - Implemented step 365 towards TrustGate architecture.
 
+### [2026-08-10 09:57] feat(trustgate): add telemetry log point for lib.rs (step 366)
+- Implemented step 366 towards TrustGate architecture.
+
