@@ -1142,3 +1142,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-08-24 19:10] style(trustgate): standardize variable naming conventions in test.rs (step 380)
 - Implemented step 380 towards TrustGate architecture.
 
+### [2026-08-24 21:21] chore(trustgate): optimize compiler warning suppressions in test.rs (step 381)
+- Implemented step 381 towards TrustGate architecture.
+
