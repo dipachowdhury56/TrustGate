@@ -1145,3 +1145,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-08-24 21:21] chore(trustgate): optimize compiler warning suppressions in test.rs (step 381)
 - Implemented step 381 towards TrustGate architecture.
 
+### [2026-08-26 16:45] feat(trustgate): add telemetry log point for test.rs (step 382)
+- Implemented step 382 towards TrustGate architecture.
+
