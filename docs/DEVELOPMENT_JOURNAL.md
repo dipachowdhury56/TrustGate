@@ -1178,3 +1178,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-08-31 11:17] fix(trustgate): tighten boundary check for milestone state in arbitration split (step 392)
 - Implemented step 392 towards TrustGate architecture.
 
+### [2026-08-31 21:31] perf(trustgate): reduce redundant clone operations in arbitration split (step 393)
+- Implemented step 393 towards TrustGate architecture.
+
