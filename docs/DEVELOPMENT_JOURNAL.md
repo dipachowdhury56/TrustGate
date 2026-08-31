@@ -1172,3 +1172,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-08-28 21:49] feat(trustgate): add telemetry log point for milestone logic (step 390)
 - Implemented step 390 towards TrustGate architecture.
 
+### [2026-08-31 10:16] refactor(trustgate): improve code formatting and inline comments in arbitration split (step 391)
+- Implemented step 391 towards TrustGate architecture.
+
