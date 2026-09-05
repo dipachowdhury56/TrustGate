@@ -1196,3 +1196,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-09-03 17:18] feat(trustgate): add telemetry log point for arbitration split (step 398)
 - Implemented step 398 towards TrustGate architecture.
 
+### [2026-09-05 10:38] refactor(trustgate): improve code formatting and inline comments in client sdk (step 399)
+- Implemented step 399 towards TrustGate architecture.
+
