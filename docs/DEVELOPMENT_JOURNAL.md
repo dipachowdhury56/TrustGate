@@ -1202,3 +1202,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-09-05 17:31] fix(trustgate): tighten boundary check for milestone state in client sdk (step 400)
 - Implemented step 400 towards TrustGate architecture.
 
+### [2026-09-05 17:49] perf(trustgate): reduce redundant clone operations in client sdk (step 401)
+- Implemented step 401 towards TrustGate architecture.
+
