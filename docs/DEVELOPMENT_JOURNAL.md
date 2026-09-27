@@ -1265,3 +1265,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-09-27 17:50] chore(trustgate): optimize compiler warning suppressions in storage layout (step 421)
 - Implemented step 421 towards TrustGate architecture.
 
+### [2026-09-27 18:13] feat(trustgate): add telemetry log point for storage layout (step 422)
+- Implemented step 422 towards TrustGate architecture.
+
