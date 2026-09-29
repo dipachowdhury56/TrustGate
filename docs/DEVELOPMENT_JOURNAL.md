@@ -1274,3 +1274,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-09-29 13:26] fix(trustgate): tighten boundary check for milestone state in lib.rs (step 424)
 - Implemented step 424 towards TrustGate architecture.
 
+### [2026-09-29 14:32] perf(trustgate): reduce redundant clone operations in lib.rs (step 425)
+- Implemented step 425 towards TrustGate architecture.
+
