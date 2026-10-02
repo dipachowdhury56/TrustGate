@@ -1,0 +1,13 @@
+{
+  "name": "trustgate-client",
+  "version": "1.0.0",
+  "description": "Client SDK & Interactive Web3 Dashboard for TrustGate Milestone Escrow on Soroban",
+  "main": "test-client.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test-client.js"
+  },
+  "dependencies": {
+    "@stellar/stellar-sdk": "^17.4.0"
+  }
+}
