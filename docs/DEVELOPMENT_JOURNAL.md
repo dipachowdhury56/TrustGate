@@ -1373,3 +1373,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-10-15 18:35] perf(trustgate): reduce redundant clone operations in arbitration split (step 457)
 - Implemented step 457 towards TrustGate architecture.
 
+### [2026-10-20 17:52] docs(trustgate): update documentation notes for arbitration split (step 458)
+- Implemented step 458 towards TrustGate architecture.
+
