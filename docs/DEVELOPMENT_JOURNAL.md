@@ -1541,3 +1541,6 @@ Chronological engineering records and milestone changelog.
 ### [2026-11-19 11:56] perf(trustgate): reduce redundant clone operations in milestone logic (step 513)
 - Implemented step 513 towards TrustGate architecture.
 
+### [2026-11-19 17:35] docs(trustgate): update documentation notes for milestone logic (step 514)
+- Implemented step 514 towards TrustGate architecture.
+
